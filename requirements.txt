@@ -1,3 +1,2 @@
-llm
 google-generativeai
 streamlit
