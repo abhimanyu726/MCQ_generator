@@ -10,7 +10,6 @@ This project is a web-based Multiple Choice Question (MCQ) generator using Googl
 - 📚 Difficulty selection: easy, medium, hard
 - 🔢 Custom number of questions (up to 10)
 - 🧪 Interactive answer selection and validation
-- 🔐 Uses `.env` file to load API key securely
 
 ---
 
