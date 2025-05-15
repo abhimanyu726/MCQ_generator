@@ -5,7 +5,6 @@ This project is a web-based **Multiple Choice Question (MCQ)** generator powered
 - 📚 Difficulty levels: Easy, Medium, Hard
 - 🔢 Customizable number of questions (up to 10)
 - 🧪 Interactive answer selection with immediate feedback
-- 🔒 Secure handling of API keys using environment variables
 ## 📋 Prerequisites
 Before setting up the project, ensure you have the following installed:
 1. **Python 3.10+**
