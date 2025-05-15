@@ -1,0 +1,13 @@
+prefix=E:/mcq/genv/Library
+exec_prefix=E:/mcq/genv/Library
+libdir=E:/mcq/genv/Library/lib
+sharedlibdir=E:/mcq/genv/Library/lib
+includedir=E:/mcq/genv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
